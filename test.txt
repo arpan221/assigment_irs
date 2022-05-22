@@ -1,0 +1,9 @@
+product/productId: B003XBBAUM
+review/userId: A2HVY3YRSJR5NF
+review/profileName: J. Facey "J.F., CA
+I am a voracious reader/li...
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1332633600
+review/summary: The absolute best - taste better than brown sugar
+review/text: I recently bought this sugar alternative and I am completely blown away! I have fibromyalgia, multiple food allergies/sensitivities and so many thing make me feel bad including exacerbating my pain. This does not have any negative effects on me whatsoever. The taste is out of this world! I am tempted to just eat it. This one is a winner! A little secret - I found it much cheaper at Whole Foods market.
